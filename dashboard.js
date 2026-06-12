@@ -8,12 +8,12 @@ const announcementList = document.getElementById("announcementList");
 const announcementCount = document.getElementById("announcementCount");
 logoutBtn.addEventListener("click", function () {
   localStorage.removeItem("loggedUser");
-  window.location.href = "login.html";
+  window.location.href = "index.html";
 });
 
 const storedUser = localStorage.getItem("loggedUser");
 if (!storedUser) {
-  window.location.href = "login.html";
+  window.location.href = "index.html";
 } else {
   const user = JSON.parse(storedUser);
   welcomeHeading.textContent = `Welcome, ${user.name} 👋`;
