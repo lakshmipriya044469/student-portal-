@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="dashboardStyle.css">
+    <title>Student Dashboard</title>
+
+</head>
+
+<body>
+
+    <div class="sidebar">
+
+        <h2>🎓 Student Portal</h2>
+
+        <ul>
+            <li id="dashboardSidebar"> 🏠 Dashboard</li>
+            <li><a href="profile.html">👤 Profile</a></li>
+            <li>📅 Attendance</li>
+            <li>📚 Marks</li>
+            <li>🕒 Timetable</li>
+            <li>📢 Announcements</li>
+            <li id="logoutBtn">🚪 Logout</li>
+        </ul>
+
+    </div>
+    <div class="main">
+
+        <div class="header">
+            <h1 id="welcomeHeading">Welcome!</h1>
+            <p>Here's your academic overview.</p>
+        </div>
+
+        <div class="cards">
+
+            <div class="card">
+                <h3>Attendance</h3>
+                <p id="attendanceValue">92%</p>
+            </div>
+
+            <div class="card">
+                <h3>CGPA</h3>
+            <p id="cgpaValue">8.75</p>
+            </div>
+            <div class="card">
+                <h3>Marks</h3>
+                <p id="marksValue">5</p>
+            </div>
+
+            <div class="card">
+                <h3>Announcements</h3>
+                <p id="announcementCount">3</p>
+            </div>
+
+        </div>
+
+        <div class="announcement">
+
+            <h2>Latest Announcements</h2>
+
+            <ul id="announcementList">
+                
+            </ul>
+
+        </div>
+
+    </div>
+
+    <script src="dashboard.js"></script>
+</body>
+</html>

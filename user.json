@@ -1,0 +1,185 @@
+[
+  {
+    "id": 1,
+    "name": "Lakshmi Priya",
+    "email": "lakshmi@gmail.com",
+    "password": "password123",
+    "attendance": "90%",
+    "cgpa": "8.75",
+    "marks": 85,
+
+    "firstName": "Lakshmi",
+    "lastName": "Priya",
+    "gender": "Female",
+    "dob": "15-05-2006",
+    "bloodGroup": "B+",
+    "phone": "9876543210",
+    "address": "Thrissur, Kerala",
+    "pin": "680001",
+
+    "emergencyContactName": "Rajesh Nair",
+    "relationship": "Father",
+    "emergencyPhone": "9876500000"
+  },
+
+  {
+    "id": 2,
+    "name": "Sharon Susan Philip",
+    "email": "sharon@gmail.com",
+    "password": "1234567",
+    "attendance": "85%",
+    "cgpa": "7.58",
+    "marks": 78,
+
+    "firstName": "Sharon",
+    "lastName": "Philip",
+    "gender": "Female",
+    "dob": "08-02-2006",
+    "bloodGroup": "O+",
+    "phone": "9876543211",
+    "address": "Kottayam, Kerala",
+    "pin": "686001",
+
+    "emergencyContactName": "Susan Philip",
+    "relationship": "Mother",
+    "emergencyPhone": "9876500001"
+  },
+
+  {
+    "id": 3,
+    "name": "Ananya Sharma",
+    "email": "ananya@gmail.com",
+    "password": "ananya456",
+    "attendance": "87%",
+    "cgpa": "7.99",
+    "marks": 82,
+
+    "firstName": "Ananya",
+    "lastName": "Sharma",
+    "gender": "Female",
+    "dob": "21-09-2005",
+    "bloodGroup": "A+",
+    "phone": "9876543212",
+    "address": "Kochi, Kerala",
+    "pin": "682001",
+
+    "emergencyContactName": "Rakesh Sharma",
+    "relationship": "Father",
+    "emergencyPhone": "9876500002"
+  },
+
+  {
+    "id": 4,
+    "name": "Rohith",
+    "email": "rohith@gmail.com",
+    "password": "password",
+    "attendance": "79%",
+    "cgpa": "7.77",
+    "marks": 75,
+
+    "firstName": "Rohith",
+    "lastName": "Kumar",
+    "gender": "Male",
+    "dob": "10-01-2006",
+    "bloodGroup": "B-",
+    "phone": "9876543213",
+    "address": "Palakkad, Kerala",
+    "pin": "678001",
+
+    "emergencyContactName": "Suresh Kumar",
+    "relationship": "Father",
+    "emergencyPhone": "9876500003"
+  },
+
+  {
+    "id": 5,
+    "name": "Sania Philip",
+    "email": "sania@gmail.com",
+    "password": "hsrithviks",
+    "attendance": "93%",
+    "cgpa": "8.75",
+    "marks": 87,
+
+    "firstName": "Sania",
+    "lastName": "Philip",
+    "gender": "Female",
+    "dob": "17-06-2006",
+    "bloodGroup": "o+ve",
+    "phone": "9876543214",
+    "address": "pathanamthitta, Kerala",
+    "pin": "688001",
+
+    "emergencyContactName": "Philip .k",
+    "relationship": "Father",
+    "emergencyPhone": "9876500004"
+  },
+
+  {
+    "id": 6,
+    "name": "Gautham Krishna",
+    "email": "gautham@gmail.com",
+    "password": "abcde",
+    "attendance": "91%",
+    "cgpa": "9.25",
+    "marks": 92,
+
+    "firstName": "Gautham",
+    "lastName": "Krishna",
+    "gender": "Male",
+    "dob": "04-04-2005",
+    "bloodGroup": "O+",
+    "phone": "9876543215",
+    "address": "Trivandrum, Kerala",
+    "pin": "695001",
+
+    "emergencyContactName": "Krishna Kumar",
+    "relationship": "Father",
+    "emergencyPhone": "9876500005"
+  },
+
+  {
+    "id": 7,
+    "name": "Krishna",
+    "email": "krishna@gmail.com",
+    "password": "krishna098",
+    "attendance": "77%",
+    "cgpa": "6.99",
+    "marks": 70,
+
+    "firstName": "Krishna",
+    "lastName": "Menon",
+    "gender": "Male",
+    "dob": "12-11-2005",
+    "bloodGroup": "A-",
+    "phone": "9876543216",
+    "address": "Kozhikode, Kerala",
+    "pin": "673001",
+
+    "emergencyContactName": "Ravi Menon",
+    "relationship": "Father",
+    "emergencyPhone": "9876500006"
+  },
+
+  {
+    "id": 8,
+    "name": "Devika",
+    "email": "devika@gmail.com",
+    "password": "devika123",
+    "attendance": "81%",
+    "cgpa": "5.85",
+    "marks": 65,
+
+    "firstName": "Devika",
+    "lastName": "Nair",
+    "gender": "Female",
+    "dob": "28-07-2006",
+    "bloodGroup": "O-",
+    "phone": "9876543217",
+    "address": "Kannur, Kerala",
+    "pin": "670001",
+
+    "emergencyContactName": "Sunitha Nair",
+    "relationship": "Mother",
+    "emergencyPhone": "9876500007"
+  }
+]
