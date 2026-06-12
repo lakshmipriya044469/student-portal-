@@ -1,6 +1,5 @@
 const welcomeHeading = document.getElementById("welcomeHeading");
 const logoutBtn = document.getElementById("logoutBtn");
-const dashboardSidebar = document.getElementById("dashboardSidebar");
 const attendanceValue = document.getElementById("attendanceValue");
 const marksValue = document.getElementById("marksValue");
 const cgpaValue = document.getElementById("cgpaValue");
@@ -47,6 +46,4 @@ window.addEventListener("load", function () {
   }
 });
 
-dashboardSidebar.addEventListener("click", function () {
-  window.location.href = "dashboard.html";
-});
+
